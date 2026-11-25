@@ -1,0 +1,28 @@
+{
+ "code": "M562C",
+ "connector": "RTO-144",
+ "type": "Stereo Equalizer Module",
+ "series": null,
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "22",
+   "signal": "POWER SUPPLY COMMON RETURN",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/FILTERS/M562C/MANUALS/1985 - M562C - M462C562C - P010 - 4-3.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/FILTERS/M562C/MANUALS/1985 - M562C - M462C562C - P010 - 4-3.jpg"
+ ]
+}
