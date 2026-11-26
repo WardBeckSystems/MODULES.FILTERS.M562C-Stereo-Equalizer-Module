@@ -22,7 +22,7 @@ Wiki page: [M562C](../../../../PAGES/M562C.md)
 - **Title block:** (209, 43)–(334, 67) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 19 connected wire groups from 289 runs; labelled ends: 95 mm → RJi; 57 mm → R39, 47k, R4o; 50 mm → 220/10, 620, R39, 47k; 49 mm → R4o, R4z, 620, 220/10; 43 mm → 6.8, Tzztzs
 
-Every curve, box, word and wire group: [1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%2014-109-02-002%20-%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%2014-109-02-002%20-%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

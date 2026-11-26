@@ -23,7 +23,7 @@ Wiki page: [M562C](../../../../PAGES/M562C.md)
 - **Words (OCR):** 22 in 22 lines: Neut · bno · 1204 · Tuno · 47002 · eno · 4no · Sa · Ano · 4ho · Jno · sho
 - **Wiring (first pass):** 156 connected wire groups from 1,565 runs; labelled ends: 309 mm → 10/75; 208 mm → 10/75; 126 mm → bno, Tuno; 123 mm → eno; 118 mm → Jno
 
-Every curve, box, word and wire group: [1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%20462-02-004%20-%20LAST%20COUPONENT%20DESI%20COHMON%20CPI%20(traced).json) (the CAD file: `1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%20462-02-004%20-%20LAST%20COUPONENT%20DESI%20COHMON%20CPI%20%28traced%29.json) (the CAD file: `1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI (traced).dxf`).
 
 ## Full text
 

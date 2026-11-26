@@ -23,7 +23,7 @@ Wiki page: [M562C](../../../../PAGES/M562C.md)
 - **Title block:** (203, 38)–(319, 63) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 63 connected wire groups from 887 runs; labelled ends: 128 mm → 12002; 126 mm → 12002; 68 mm → Lino; 61 mm → Lino; 39 mm → Lino
 
-Every curve, box, word and wire group: [1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%20462-02-004%20-%20SECNED%20ICITORS%20ARE%20RATED%20(traced).json) (the CAD file: `1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%20462-02-004%20-%20SECNED%20ICITORS%20ARE%20RATED%20%28traced%29.json) (the CAD file: `1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED (traced).dxf`).
 
 ## Full text
 

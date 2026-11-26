@@ -23,7 +23,7 @@ Wiki page: [M562C](../../../../PAGES/M562C.md)
 - **Title block:** (215, 40)–(337, 64) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 68 connected wire groups from 297 runs; labelled ends: 86 mm → INSERT; 75 mm → 00 Hz; 62 mm → INSERT; 27 mm → RIGHT; 6 mm → 00 Hz
 
-Every curve, box, word and wire group: [1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%20462-01-004%20-%20STEREO%20EQUALIZER%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M562C%20-%20462-01-004%20-%20STEREO%20EQUALIZER%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 
