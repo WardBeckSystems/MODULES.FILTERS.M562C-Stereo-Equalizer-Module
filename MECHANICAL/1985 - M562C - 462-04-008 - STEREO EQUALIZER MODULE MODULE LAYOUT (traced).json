@@ -1,0 +1,88 @@
+{
+ "drawing": "Modules/FILTERS/M562C/MECHANICAL/1985 - M562C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/222bdb38d3934171.svg",
+ "sheet": {
+  "number": "462-04-008",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1522, 2000],
+  "mm": [328.6, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 2.1, 328.7, 431.6],
+ "outlines": {
+  "line": {"rings": 91, "straight": {"n": 1457, "mm": 3281.2}, "curved": {"n": 252, "mm": 464.0}},
+  "text": {"rings": 141, "straight": {"n": 1225, "mm": 1473.4}, "curved": {"n": 331, "mm": 533.8}},
+  "tb": {"rings": 218, "straight": {"n": 1484, "mm": 2200.5}, "curved": {"n": 434, "mm": 776.4}}
+ },
+ "circles": [
+  {"c": [65.6, 239.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.3, 146.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.6, 265.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.5, 213.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.6, 187.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.6, 161.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.9, 291.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {
+   "mm": [137.0, 119.6, 187.0, 317.6],
+   "w": 49.9,
+   "h": 198.0,
+   "from": "ring",
+   "words": ["WBS", "M46ZC", "KHz", "26", "KHz", "MF", "140", "200", "400", "Hz"]
+  },
+  {
+   "mm": [140.3, 120.5, 184.8, 316.1],
+   "w": 44.5,
+   "h": 195.6,
+   "from": "ring",
+   "words": ["WBS", "M46ZC", "KHz", "26", "KHz", "MF", "140", "200", "400", "Hz"]
+  }
+ ],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [148.3, 309.6, 155.9, 313.7], "text": "WBS"},
+   {"mm": [168.0, 309.6, 177.9, 313.7], "text": "M46ZC"},
+   {"mm": [149.4, 280.2, 156.1, 284.3], "text": "KHz"},
+   {"mm": [150.7, 244.4, 155.9, 248.2], "text": "26"},
+   {"mm": [149.8, 228.2, 156.1, 232.0], "text": "KHz"},
+   {"mm": [169.7, 226.9, 174.9, 231.0], "text": "MF"},
+   {"mm": [151.1, 193.0, 155.4, 196.1], "text": "140"},
+   {"mm": [158.3, 188.7, 163.4, 192.5], "text": "200"},
+   {"mm": [157.4, 182.0, 163.0, 186.1], "text": "400"},
+   {"mm": [150.7, 176.4, 155.0, 180.0], "text": "Hz"},
+   {"mm": [254.1, 156.7, 263.2, 163.9], "text": "10_"},
+   {"mm": [210.7, 52.0, 323.0, 59.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [253.7, 36.9, 278.3, 44.1], "text": "M462€"},
+   {"mm": [211.2, 28.3, 287.8, 35.9], "text": "STEREO EQUALIZER"},
+   {"mm": [290.6, 28.5, 321.7, 36.4], "text": "MODULE"},
+   {"mm": [267.3, 20.3, 299.0, 28.5], "text": "LAYout"},
+   {"mm": [232.1, 20.3, 264.9, 27.5], "text": "MODULE"},
+   {"mm": [306.4, 8.2, 324.1, 15.4], "text": "ISS.1"},
+   {"mm": [214.0, 7.8, 263.4, 15.0], "text": "462-04-008"}
+  ]
+ },
+ "title_block": {
+  "mm": [141.7, 43.3, 328.6, 322.1],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M46ZC", "KHz", "26", "KHz", "MF", "140", "200", "400", "Hz", "10_", "WBS WARD-BECK SYSTEMS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 462-04-008, size B (assumed) 329 × 432 mm, 1522 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 2–432 mm up",
+  "- **Outlines:** line 91 rings, 1,457 straight (3,281 mm) / 252 curved (464 mm); text 141 rings, 1,225 straight (1,473 mm) / 331 curved (534 mm); tb 218 rings, 1,484 straight (2,200 mm) / 434 curved (776 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 5.0 @ (65.6, 239.5), r 5.0 @ (65.3, 146.4), r 5.0 @ (65.6, 265.5), r 5.0 @ (65.5, 213.7)",
+  "- **Closed boxes:** 2; named: WBS M46ZC KHz 26 KHz MF 140 200 400 Hz; WBS M46ZC KHz 26 KHz MF 140 200 400 Hz",
+  "- **Words (OCR):** 21 in 19 lines: WBS · M46ZC · KHz · 26 · KHz · MF · 140 · 200 · 400 · Hz · 10_ · WBS WARD-BECK SYSTEMS",
+  "- **Title block:** (142, 43)–(329, 322) mm: WBS · M46ZC · KHz · 26 · KHz · MF · 140 · 200 · 400 · Hz · 10_ · WBS WARD-BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/FILTERS/M562C/MECHANICAL/1985 - M562C - 462-04-008.jpg",
+ "version": 1,
+ "trace": "_traces/f8bc5f0285ac84d7.svg",
+ "sheet": {
+  "number": "462-04-008",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1574, 2000],
+  "mm": [339.8, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 339.8, 431.8],
+ "outlines": {
+  "line": {"rings": 490, "straight": {"n": 6831, "mm": 12528.7}, "curved": {"n": 976, "mm": 1249.4}},
+  "text": {"rings": 99, "straight": {"n": 763, "mm": 692.9}, "curved": {"n": 269, "mm": 356.6}}
+ },
+ "circles": [
+  {"c": [135.7, 213.4], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [135.7, 151.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [130.3, 280.7], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [243.1, 283.9, 249.8, 297.7], "w": 6.7, "h": 13.8, "from": "ring", "words": ["RGC"]},
+  {"mm": [251.5, 283.9, 258.4, 297.6], "w": 6.9, "h": 13.7, "from": "ring", "words": ["RGD"]},
+  {"mm": [259.9, 283.9, 267.3, 297.5], "w": 7.4, "h": 13.6, "from": "ring", "words": ["R6A"]},
+  {"mm": [269.0, 283.9, 276.8, 297.5], "w": 7.8, "h": 13.6, "from": "ring", "words": ["R6B"]},
+  {"mm": [123.7, 278.3, 131.9, 283.0], "w": 8.2, "h": 4.7, "from": "ring"},
+  {"mm": [222.4, 261.9, 226.3, 278.3], "w": 3.9, "h": 16.4, "from": "ring"},
+  {"mm": [133.0, 247.4, 138.2, 264.9], "w": 5.2, "h": 17.5, "from": "ring"},
+  {"mm": [251.5, 231.6, 258.6, 245.3], "w": 7.1, "h": 13.7, "from": "ring", "words": ["RSc"]},
+  {"mm": [259.9, 231.7, 267.3, 245.3], "w": 7.3, "h": 13.6, "from": "ring", "words": ["RSB"]},
+  {"mm": [269.0, 231.7, 276.8, 245.3], "w": 7.8, "h": 13.6, "from": "ring", "words": ["RSA"]},
+  {"mm": [223.0, 188.0, 226.7, 204.7], "w": 3.7, "h": 16.6, "from": "ring"},
+  {"mm": [242.5, 179.4, 249.6, 193.0], "w": 7.1, "h": 13.6, "from": "ring", "words": ["Radi"]},
+  {"mm": [259.5, 179.2, 267.1, 192.9], "w": 7.6, "h": 13.7, "from": "ring"},
+  {"mm": [268.8, 179.2, 276.6, 192.9], "w": 7.8, "h": 13.7, "from": "ring", "words": ["R4B"]},
+  {"mm": [251.1, 179.4, 258.2, 192.8], "w": 7.1, "h": 13.4, "from": "ring", "words": ["RLc"]},
+  {"mm": [133.9, 174.2, 137.7, 190.6], "w": 3.9, "h": 16.4, "from": "ring"},
+  {"mm": [123.5, 154.8, 131.7, 159.2], "w": 8.2, "h": 4.4, "from": "ring"},
+  {"mm": [293.4, 138.8, 299.5, 149.6], "w": 6.0, "h": 10.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [243.1, 288.4, 276.1, 292.4], "text": "RGC RGD R6A R6B"},
+   {"mm": [209.6, 269.7, 219.4, 273.0], "text": "1-109"},
+   {"mm": [171.9, 258.2, 189.1, 261.6], "text": "S41L-1098"},
+   {"mm": [140.1, 255.6, 149.2, 259.0], "text": "1-109"},
+   {"mm": [171.4, 255.0, 189.8, 258.8], "text": "UNIVERSAL"},
+   {"mm": [245.7, 252.2, 269.0, 259.1], "text": "14-132"},
+   {"mm": [169.0, 249.4, 192.4, 253.2], "text": "SUBASSE MBLY"},
+   {"mm": [171.4, 251.7, 190.4, 255.6], "text": "AMPL IFieR"},
+   {"mm": [248.3, 248.5, 265.8, 253.8], "text": "ISSUE 2"},
+   {"mm": [242.7, 235.5, 276.1, 240.0], "text": "RSD RSc RSB RSA"},
+   {"mm": [259.9, 210.3, 266.9, 214.1], "text": "5w}"},
+   {"mm": [210.3, 196.3, 220.0, 199.6], "text": "2-109"},
+   {"mm": [140.6, 181.1, 149.6, 185.0], "text": "2-109"},
+   {"mm": [169.7, 181.1, 188.0, 185.0], "text": "UNIVERSAL"},
+   {"mm": [170.3, 184.4, 187.6, 187.7], "text": "SA1L-1098"},
+   {"mm": [242.7, 183.3, 258.2, 187.1], "text": "Radi RLc"},
+   {"mm": [269.7, 183.3, 276.6, 187.1], "text": "R4B"},
+   {"mm": [169.7, 177.9, 188.7, 181.7], "text": "AMPLifiER"},
+   {"mm": [167.5, 174.7, 190.9, 178.5], "text": "SUBASSEMBLY"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 462-04-008, size B (assumed) 340 × 432 mm, 1574 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–340 mm across, 0–432 mm up",
+  "- **Outlines:** line 490 rings, 6,831 straight (12,529 mm) / 976 curved (1,249 mm); text 99 rings, 763 straight (693 mm) / 269 curved (357 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.8 @ (135.7, 213.4), r 2.5 @ (135.7, 151.0), r 1.4 @ (130.3, 280.7)",
+  "- **Closed boxes:** 18; named: RGC; RGD; R6A; R6B; RSc; RSB; RSA; Radi; R4B; RLc",
+  "- **Words (OCR):** 26 in 19 lines: RGC RGD R6A R6B · 1-109 · S41L-1098 · 1-109 · UNIVERSAL · 14-132 · SUBASSE MBLY · AMPL IFieR · ISSUE 2 · RSD RSc RSB RSA · 5w} · 2-109"
+ ]
+}
