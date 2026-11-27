@@ -1,16 +1,16 @@
-# M562C · Filters
+# M562C Stereo Equalizer Module · Filters
 
 Ward-Beck Systems M562C, 1985|18. Wiki page: [M562C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M562C.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 33 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 33 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 34 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 11 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 53 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -67,26 +67,17 @@ _Photographs of the module itself: front, back, inside, racked._
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMndhQkZsdnNjRTg/view?resourcekey=0-T7A_hBftEhsSE6GgRHWcfQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMndhQkZsdnNjRTg&resourcekey=0-T7A_hBftEhsSE6GgRHWcfQ" width="240" alt="1985 - M562C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT.jpg"></a><br><sub>1985|18 · 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdkNTaXNJTEhpb3c/view?resourcekey=0-YoviFItAX3gusF2FH3RDiw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdkNTaXNJTEhpb3c&resourcekey=0-YoviFItAX3gusF2FH3RDiw" width="240" alt="1985 - M562C - 462-04-008.jpg"></a><br><sub>1985|18 · 462-04-008</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMndhQkZsdnNjRTg/view?resourcekey=0-T7A_hBftEhsSE6GgRHWcfQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMndhQkZsdnNjRTg&resourcekey=0-T7A_hBftEhsSE6GgRHWcfQ" width="240" alt="1985 - M562C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT.jpg"></a><br><sub>1985|18 · 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT · <a href="MECHANICAL/1985%20-%20M562C%20-%20462-04-008%20-%20STEREO%20EQUALIZER%20MODULE%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdkNTaXNJTEhpb3c/view?resourcekey=0-YoviFItAX3gusF2FH3RDiw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdkNTaXNJTEhpb3c&resourcekey=0-YoviFItAX3gusF2FH3RDiw" width="240" alt="1985 - M562C - 462-04-008.jpg"></a><br><sub>1985|18 · 462-04-008 · <a href="MECHANICAL/1985%20-%20M562C%20-%20462-04-008%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M562C.stl`](MECHANICAL/M562C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M562C)
-
-- **Size:** 56.57 × 209.42 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 7 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M562C - front panel.svg`)
-- the drawn panel is 0.23 wide to high, the size 0.27: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M562C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2tQdDEyMm52VFk/view?resourcekey=0-NMFPud-TucIiLV_VQINJnw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2tQdDEyMm52VFk&resourcekey=0-NMFPud-TucIiLV_VQINJnw" width="240" alt="1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC.jpg"></a><br><sub>1985|18 · 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEE2c1RBdUVoQUk/view?resourcekey=0-rjWVgZf_96t321UuUhg6Bg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEE2c1RBdUVoQUk&resourcekey=0-rjWVgZf_96t321UuUhg6Bg" width="240" alt="1985 - M562C - 14-109-02-002.jpg"></a><br><sub>1985|18 · 14-109-02-002</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT2dwaklPMU9rQWs/view?resourcekey=0-pikEFE9ma0V22CGOK4UWgQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT2dwaklPMU9rQWs&resourcekey=0-pikEFE9ma0V22CGOK4UWgQ" width="240" alt="1985 - M562C - 14-109-06-002 - UNIVERSAL AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>1985|18 · 14-109-06-002 - UNIVERSAL AMPLIFIER ASSEMBLY COMPONENT LAYOUT</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeC1qZXdLcEF5a1k/view?resourcekey=0-pDLC7e1Znv-Ijl14ApsM3w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeC1qZXdLcEF5a1k&resourcekey=0-pDLC7e1Znv-Ijl14ApsM3w" width="240" alt="1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL.jpg"></a><br><sub>1985|18 · 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbzVBWEY4MENIb28/view?resourcekey=0-SFo1MS1uit1p8FNZrbklIg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbzVBWEY4MENIb28&resourcekey=0-SFo1MS1uit1p8FNZrbklIg" width="240" alt="1985 - M562C - 462-01-004.jpg"></a><br><sub>1985|18 · 462-01-004</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTDZsTVh5blpkWFE/view?resourcekey=0-_pvXTjGdrpFulZmsjPMHeg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTDZsTVh5blpkWFE&resourcekey=0-_pvXTjGdrpFulZmsjPMHeg" width="240" alt="1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI.jpg"></a><br><sub>1985|18 · 462-02-004 - LAST COUPONENT DESI COHMON CPI</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVHVYakdrVkpuMDg/view?resourcekey=0-mIOFxj9YOI-18dI-ebgC-Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVHVYakdrVkpuMDg&resourcekey=0-mIOFxj9YOI-18dI-ebgC-Q" width="240" alt="1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED.jpg"></a><br><sub>1985|18 · 462-02-004 - SECNED ICITORS ARE RATED</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWUd5c3p0S0lURE0/view?resourcekey=0-MUwLjlP6bjK4f7nuXln5nw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWUd5c3p0S0lURE0&resourcekey=0-MUwLjlP6bjK4f7nuXln5nw" width="240" alt="1985 - M562C - 462-06-009 - STEREO EQUALIZER MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1985|18 · 462-06-009 - STEREO EQUALIZER MODULE COMPONENT LAYOUT</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2tQdDEyMm52VFk/view?resourcekey=0-NMFPud-TucIiLV_VQINJnw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2tQdDEyMm52VFk&resourcekey=0-NMFPud-TucIiLV_VQINJnw" width="240" alt="1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC.jpg"></a><br><sub>1985|18 · 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC · <a href="SCHEMATICS/1985%20-%20M562C%20-%2014-109-02-002%20-%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEE2c1RBdUVoQUk/view?resourcekey=0-rjWVgZf_96t321UuUhg6Bg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEE2c1RBdUVoQUk&resourcekey=0-rjWVgZf_96t321UuUhg6Bg" width="240" alt="1985 - M562C - 14-109-02-002.jpg"></a><br><sub>1985|18 · 14-109-02-002 · <a href="SCHEMATICS/1985%20-%20M562C%20-%2014-109-02-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT2dwaklPMU9rQWs/view?resourcekey=0-pikEFE9ma0V22CGOK4UWgQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT2dwaklPMU9rQWs&resourcekey=0-pikEFE9ma0V22CGOK4UWgQ" width="240" alt="1985 - M562C - 14-109-06-002 - UNIVERSAL AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>1985|18 · 14-109-06-002 - UNIVERSAL AMPLIFIER ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/1985%20-%20M562C%20-%2014-109-06-002%20-%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeC1qZXdLcEF5a1k/view?resourcekey=0-pDLC7e1Znv-Ijl14ApsM3w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeC1qZXdLcEF5a1k&resourcekey=0-pDLC7e1Znv-Ijl14ApsM3w" width="240" alt="1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL.jpg"></a><br><sub>1985|18 · 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL · <a href="SCHEMATICS/1985%20-%20M562C%20-%20462-01-004%20-%20STEREO%20EQUALIZER%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbzVBWEY4MENIb28/view?resourcekey=0-SFo1MS1uit1p8FNZrbklIg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbzVBWEY4MENIb28&resourcekey=0-SFo1MS1uit1p8FNZrbklIg" width="240" alt="1985 - M562C - 462-01-004.jpg"></a><br><sub>1985|18 · 462-01-004 · <a href="SCHEMATICS/1985%20-%20M562C%20-%20462-01-004%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTDZsTVh5blpkWFE/view?resourcekey=0-_pvXTjGdrpFulZmsjPMHeg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTDZsTVh5blpkWFE&resourcekey=0-_pvXTjGdrpFulZmsjPMHeg" width="240" alt="1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI.jpg"></a><br><sub>1985|18 · 462-02-004 - LAST COUPONENT DESI COHMON CPI · <a href="SCHEMATICS/1985%20-%20M562C%20-%20462-02-004%20-%20LAST%20COUPONENT%20DESI%20COHMON%20CPI%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVHVYakdrVkpuMDg/view?resourcekey=0-mIOFxj9YOI-18dI-ebgC-Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVHVYakdrVkpuMDg&resourcekey=0-mIOFxj9YOI-18dI-ebgC-Q" width="240" alt="1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED.jpg"></a><br><sub>1985|18 · 462-02-004 - SECNED ICITORS ARE RATED · <a href="SCHEMATICS/1985%20-%20M562C%20-%20462-02-004%20-%20SECNED%20ICITORS%20ARE%20RATED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWUd5c3p0S0lURE0/view?resourcekey=0-MUwLjlP6bjK4f7nuXln5nw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWUd5c3p0S0lURE0&resourcekey=0-MUwLjlP6bjK4f7nuXln5nw" width="240" alt="1985 - M562C - 462-06-009 - STEREO EQUALIZER MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1985|18 · 462-06-009 - STEREO EQUALIZER MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1985%20-%20M562C%20-%20462-06-009%20-%20STEREO%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Manuals and documents
@@ -111,7 +102,18 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
+- [1985 - M562C - 14-109-02-002 - UNIVERSAL AMPLIFIER ASSEMBLY SCHEMATIC.kicad_sch](KICAD/1985%20-%20M562C%20-%2014-109-02-002%20-%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC.kicad_sch)
+- [1985 - M562C - 14-109-02-002.kicad_sch](KICAD/1985%20-%20M562C%20-%2014-109-02-002.kicad_sch)
+- [1985 - M562C - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL.kicad_sch](KICAD/1985%20-%20M562C%20-%20462-01-004%20-%20STEREO%20EQUALIZER%20MODULE%20FUNCTIONAL.kicad_sch)
+- [1985 - M562C - 462-01-004.kicad_sch](KICAD/1985%20-%20M562C%20-%20462-01-004.kicad_sch)
+- [1985 - M562C - 462-02-004 - LAST COUPONENT DESI COHMON CPI.kicad_sch](KICAD/1985%20-%20M562C%20-%20462-02-004%20-%20LAST%20COUPONENT%20DESI%20COHMON%20CPI.kicad_sch)
+- [1985 - M562C - 462-02-004 - SECNED ICITORS ARE RATED.kicad_sch](KICAD/1985%20-%20M562C%20-%20462-02-004%20-%20SECNED%20ICITORS%20ARE%20RATED.kicad_sch)
 - [M562C.kicad_sym](KICAD/M562C.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
