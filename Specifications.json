@@ -1,0 +1,164 @@
+{
+ "module": "M562C",
+ "title": "SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY",
+ "source": {
+  "file": "MANUALS/1985 - M562C - M462C562C - P030 - SA14-109A 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Assembly Input"
+  },
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "SAI4-109 SA14-109A SAI4-109B balanced unbalanced ba anced dB dB +18 dB",
+   "quantities": [
+    {
+     "from": 14,
+     "to": 109,
+     "unit": "A"
+    },
+    {
+     "value": 18,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0. dB"
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "110 UBm equivalent input noise 20 Hz kHz bandwidth)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 05%, from Hz kllz +30 dBm output less (typically Less than 0.0053 across most band).",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms less _ balanced unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "5k< ohms greater"
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "This dependent upon amplifier gain and its configuration within particular module."
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms, balanced greater",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+30 dBm maximum",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-22 volts +/-1 volt MA quiescent current MA +30 dB output.",
+   "quantities": [
+    {
+     "value": 22,
+     "unit": "volts",
+     "tolerance": true
+    },
+    {
+     "value": 1,
+     "unit": "volt",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "50\" wide (64 Menm 3.40\" high JM",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "\""
+    },
+    {
+     "value": 3.4,
+     "unit": "\""
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "1.40 (40.00 grams) net"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "module": "M562C",
+ "source": {
+  "file": "MANUALS/1985 - M562C - M462C562C - P009 - 4-2.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The output from the filter fed back into the mixing amplifier through C5 where added subtracted from the main signal proportion its magnitude and phase This low frequency filter maybe switched from resonant peak ing mode shelving type characteristic. This determined by switch SW2 which when depressed switches the filter from its resonant condition low pass state 10 71'4 '7F0 ` bl9'c Mid-Frequency Equalizer Dno{2 i[ _ \" 7 3 Tto E The left channel cut/boost control RZA bridges between the input and output mixing amplifier UZA. When this control the detent position (center point) no correction equalizing signal fed the filter network The signal output from the arm RZA coupled through C22 the mid range state variable filter, composed U6A U6B and U7A. The resonant frequency determined by C26 C27, C92, C93 and the setting RS sections and 43id switch SW3A changes the filter gain by inserting R46 into feedback path the filter When Sw3 released high selected and when depressed the filter equals The output signal from the filter coupled back into suriming amplifier U2A through C8, where proportionally added subtracted from the main channel signal. Addition results boost condition while cut the result subtraction. an; High Frequency_ Equalizer High frequency cutfboost control R3A feeds an error signal thc high frequency state variable filter made Up UBA, UBB and U9A The setting control R6 sections and along with C32 and C33 set the resonant peaking conditions the shelving high pass filter condition. Co pb; ~ T9 The output from this filter coupled back mixing amplifier U3A through C1i, where either added subtracted from the main channel signal. R2i ' 06i78 44 (0tinos VZnaU0s 6nx ano-30; !ngle 70f). 301 Yonljs Jnsno?e"
+   ]
+  }
+ ]
+}

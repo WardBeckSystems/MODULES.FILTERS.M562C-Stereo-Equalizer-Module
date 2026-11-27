@@ -13,6 +13,44 @@ Ward-Beck Systems M562C, 1985|18. Wiki page: [M562C on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 53 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1985 - M562C - M462C562C - P030 - SA14-109A 1-1.jpg](MANUALS/1985%20-%20M562C%20-%20M462C562C%20-%20P030%20-%20SA14-109A%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Assembly Input |
+| **Gain** | SAI4-109 SA14-109A SAI4-109B balanced unbalanced ba anced dB dB +18 dB |
+| **Frequency response** | +/-0. dB |
+| **Noise** | 110 UBm equivalent input noise 20 Hz kHz bandwidth) |
+| **Harmonic distortion** | Less than 05%, from Hz kllz +30 dBm output less (typically Less than 0.0053 across most band). |
+| **Source impedance** | 600 ohms less _ balanced unbalanced |
+| **Input impedance** | 5k&lt; ohms greater |
+| **Input levels** | This dependent upon amplifier gain and its configuration within particular module. |
+| **Output impedance** | Less than 100 ohms |
+| **Load impedance** | 600 ohms, balanced greater |
+| **Output level** | +30 dBm maximum |
+| **Power requirements** | +/-22 volts +/-1 volt MA quiescent current MA +30 dB output. |
+| **Ambient temperature** | degrees Celsius |
+| **Dimensions** | 50&quot; wide (64 Menm 3.40&quot; high JM |
+| **Weight** | 1.40 (40.00 grams) net |
+
+## Circuit description
+
+From [1985 - M562C - M462C562C - P009 - 4-2.jpg](MANUALS/1985%20-%20M562C%20-%20M462C562C%20-%20P009%20-%204-2.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The output from the filter fed back into the mixing amplifier through C5 where added subtracted from the main signal proportion its magnitude and phase This low frequency filter maybe switched from resonant peak ing mode shelving type characteristic. This determined by switch SW2 which when depressed switches the filter from its resonant condition low pass state 10 71'4 '7F0 ` bl9'c Mid-Frequency Equalizer Dno{2 i[ _ &quot; 7 3 Tto E The left channel cut/boost control RZA bridges between the input and output mixing amplifier UZA. When this control the detent position (center point) no correction equalizing signal fed the filter network The signal output from the arm RZA coupled through C22 the mid range state variable filter, composed U6A U6B and U7A. The resonant frequency determined by C26 C27, C92, C93 and the setting RS sections and 43id switch SW3A changes the filter gain by inserting R46 into feedback path the filter When Sw3 released high selected and when depressed the filter equals The output signal from the filter coupled back into suriming amplifier U2A through C8, where proportionally added subtracted from the main channel signal. Addition results boost condition while cut the result subtraction. an; High Frequency_ Equalizer High frequency cutfboost control R3A feeds an error signal thc high frequency state variable filter made Up UBA, UBB and U9A The setting control R6 sections and along with C32 and C33 set the resonant peaking conditions the shelving high pass filter condition. Co pb; ~ T9 The output from this filter coupled back mixing amplifier U3A through C1i, where either added subtracted from the main channel signal. R2i ' 06i78 44 (0tinos VZnaU0s 6nx ano-30; !ngle 70f). 301 Yonljs Jnsno?e
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
