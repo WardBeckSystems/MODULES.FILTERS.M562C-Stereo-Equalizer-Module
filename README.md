@@ -1,6 +1,6 @@
 # M562C Stereo Equalizer Module · Filters
 
-Ward-Beck Systems M562C, 1985|18. Wiki page: [M562C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M562C.html)
+Ward-Beck Systems M562C, 1985|18. Wiki page: [M562C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M562C-Stereo-Equalizer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

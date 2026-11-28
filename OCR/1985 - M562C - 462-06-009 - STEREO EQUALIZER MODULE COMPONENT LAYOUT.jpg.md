@@ -1,5 +1,5 @@
 # 1985 - M562C - 462-06-009 - STEREO EQUALIZER MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M562C](../../../../PAGES/M562C.md)
+Wiki page: [M562C](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))
